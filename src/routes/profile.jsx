@@ -9,10 +9,9 @@ function Profile() {
     <div className="profile-container">
       <div className='header'>
         <Link to={'/'} className='linkstyle'>
-        <p className='headline'>Asian American Digital Archive</p>
+        <p className='headline'>Stories From Home</p>
         </Link>
         <button className='button1 storybutton'>BROWSE THE ARCHIVE</button>
-        <button className='button1 storybutton'>SHARE A STORY</button>
         {/* <div class="dropdown">
           <button class="dropbtn">ENGLISH</button>
           <div class="dropdown-content">
